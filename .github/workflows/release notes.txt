@@ -1,0 +1,3 @@
+Created using API 25: Android Nougat 7.1.1
+
+Tested using: Nexus S API 25 (Androud 7.1.1)
